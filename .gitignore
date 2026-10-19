@@ -4,3 +4,7 @@ __pycache__/
 *.csv
 *.csv.gz
 .env
+.venv/
+*.csv.gz
+*.parquet
+.ipynb_checkpoints/
